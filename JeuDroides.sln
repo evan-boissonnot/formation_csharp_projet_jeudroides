@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDroides.Console.UI", "JeuDroides.Console.UI\JeuDroides.Console.UI.csproj", "{66BEFD23-AE77-4AB4-BA80-9976EF26620C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooDesRobots", "ZooDesRobots\ZooDesRobots.csproj", "{9A3CB370-3324-4C3F-BB3B-B0D17D72DE5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculateur", "Calculateur\Calculateur.csproj", "{E9521A95-E331-44B2-A6B9-75C0467A0C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationEnumeration", "PresentationEnumeration\PresentationEnumeration.csproj", "{306EA29E-54A4-4325-AD66-876D45652900}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projets auxiliaires", "Projets auxiliaires", "{9F8218CD-0F8F-41BF-9E08-923CF87E9F6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projet final", "Projet final", "{832AC38C-F914-47C7-A236-6933EFA3D0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66BEFD23-AE77-4AB4-BA80-9976EF26620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BEFD23-AE77-4AB4-BA80-9976EF26620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BEFD23-AE77-4AB4-BA80-9976EF26620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BEFD23-AE77-4AB4-BA80-9976EF26620C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3CB370-3324-4C3F-BB3B-B0D17D72DE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3CB370-3324-4C3F-BB3B-B0D17D72DE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3CB370-3324-4C3F-BB3B-B0D17D72DE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3CB370-3324-4C3F-BB3B-B0D17D72DE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9521A95-E331-44B2-A6B9-75C0467A0C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9521A95-E331-44B2-A6B9-75C0467A0C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9521A95-E331-44B2-A6B9-75C0467A0C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9521A95-E331-44B2-A6B9-75C0467A0C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306EA29E-54A4-4325-AD66-876D45652900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306EA29E-54A4-4325-AD66-876D45652900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306EA29E-54A4-4325-AD66-876D45652900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306EA29E-54A4-4325-AD66-876D45652900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66BEFD23-AE77-4AB4-BA80-9976EF26620C} = {832AC38C-F914-47C7-A236-6933EFA3D0CF}
+		{9A3CB370-3324-4C3F-BB3B-B0D17D72DE5B} = {9F8218CD-0F8F-41BF-9E08-923CF87E9F6F}
+		{E9521A95-E331-44B2-A6B9-75C0467A0C7F} = {9F8218CD-0F8F-41BF-9E08-923CF87E9F6F}
+		{306EA29E-54A4-4325-AD66-876D45652900} = {9F8218CD-0F8F-41BF-9E08-923CF87E9F6F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2414B35D-D6CB-4E01-8CE3-AC0923CEA915}
+	EndGlobalSection
+EndGlobal
